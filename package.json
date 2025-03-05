@@ -1,0 +1,13 @@
+{
+  "name": "flameshot-azure-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mic-R/flameshot-azure-proxy",
+  "author": "Michael R. <github@michaelreimchen.eu>",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/storage-blob": "^12.26.0",
+    "dotenv": "^16.4.7",
+    "fastify": "^5.2.1"
+  }
+}
